@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.video_tmp/
+.DS_Store
+.env
+*.env
+application_default_credentials.json
+*-sa-key.json
+service-account*.json
